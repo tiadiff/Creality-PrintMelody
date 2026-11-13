@@ -4,6 +4,8 @@ Compose a custom start/end print melody for the **Creality SPARKX i7** 3D printe
 
 > Unofficial community tool. Not affiliated with or endorsed by Creality.
 
+<img width="626" height="553" alt="Screenshot 2026-11-13 125507" src="https://github.com/user-attachments/assets/9dbdcaf1-de0b-42e1-bdb9-3d8ba60a4923" />
+
 ## How it works
 
 The printer does not play audio files for these sounds. `/usr/bin/beep_sound.sh` drives a PWM
