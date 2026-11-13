@@ -58,3 +58,4 @@ public sealed class Previewer : IDisposable
 
     public void Dispose() => Stop();
 }
+

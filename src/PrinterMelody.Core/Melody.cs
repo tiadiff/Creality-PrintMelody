@@ -38,3 +38,4 @@ public sealed class Melody
     public static Melody FromJson(string json) =>
         JsonSerializer.Deserialize<Melody>(json) ?? new Melody();
 }
+

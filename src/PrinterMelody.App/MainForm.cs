@@ -28,7 +28,7 @@ public sealed class MainForm : Form
 
     public MainForm()
     {
-        Text = "Printer Melody";
+        Text = "Creality SPARKX Melody";
         Width = 640;
         Height = 560;
         MinimumSize = new Size(620, 500);
