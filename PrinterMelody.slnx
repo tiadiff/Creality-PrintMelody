@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PrinterMelody.App/PrinterMelody.App.csproj" />
+    <Project Path="src/PrinterMelody.Core/PrinterMelody.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PrinterMelody.Tests/PrinterMelody.Tests.csproj" />
+  </Folder>
+</Solution>
